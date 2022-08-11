@@ -17,7 +17,7 @@ Alternatively, create a file named `.env` with contents similar to the [example]
 
 Run the tool
 ```
-hill-map ./data.csv
+hill-map --file ./data.csv
 ```
 
 This will open your browser to a visualisation of [Nuttalls](https://en.wikipedia.org/wiki/Lists_of_mountains_and_hills_in_the_British_Isles#Nuttalls)
