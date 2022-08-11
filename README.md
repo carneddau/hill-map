@@ -1,5 +1,7 @@
 # Hill Map
-Project for messing around with hill map data
+Project for messing around with hill map data.
+
+![Screenshot of app map with Tryfan highlighted](./pictures/screenshot.png "Screenshot of app map with Tryfan highlighted")
 
 ## Install
 Install using [Poetry](https://python-poetry.org/docs/)
