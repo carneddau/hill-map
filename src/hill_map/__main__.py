@@ -1,8 +1,8 @@
-from . import __version__
+from .cli import app
 
 
 def main():
-    print(__version__)
+    app()
 
 
 if __name__ == "__main__":
