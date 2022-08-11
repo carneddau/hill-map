@@ -24,6 +24,6 @@ in the British Isles.
 ## Acknowledgments
 The [data in this repo](./data.csv) is derived from the
 [Database of British and Irish Hills v17.4](http://www.hills-database.co.uk) (DoBIH),
-which is licensed under the [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+which is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 
 The file is a filtered subset of the DoBIH database, containing only Nuttalls.
